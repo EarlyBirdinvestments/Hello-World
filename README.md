@@ -1,6 +1,6 @@
 # Hello-World
 This Is For The Early_Bird_Nation!
-No one is as smart as you, and BTW thanks for the follow and subcribe ;-)
+No one is as smart as you, and BTW thanks for the follow and subscribe ;-)
 We are bringing everyone together.
 A lot of programmers and developers can code but can't trade.
 Alot of traders know how to trade but can't code.
